@@ -1,0 +1,31 @@
+{
+  "name": "common-util",
+  "version": "1.0.0",
+  "description": "A common place for all programming required utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shanksrepo/common-util.git"
+  },
+  "keywords": [
+    "utility",
+    "javascript",
+    "js",
+    "node",
+    "nodejs",
+    "shashank",
+    "shanks"
+  ],
+  "author": "Shashank Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanksrepo/common-util/issues"
+  },
+  "homepage": "https://github.com/shanksrepo/common-util",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
